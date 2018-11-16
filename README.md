@@ -1,2 +1,0 @@
-# Coursework
-My Coursework
