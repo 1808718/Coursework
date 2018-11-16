@@ -45,7 +45,7 @@ a img:hover{ position: relative;
 }
 
 /* make 2 columns */
-@media screen and (max-width: 1800px) {
+@media screen and (max-width: 800px) {
     .column {
         -ms-flex: 50%;
         flex: 50%;
